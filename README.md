@@ -15,8 +15,8 @@ Check out the live version here: [Click to view the demo]((https://reactjs-todo-
 
 ## Screenshot
 
-![Todo App Screenshot](![Screenshot (61)](https://github.com/user-attachments/assets/8de106c0-c442-4197-a5c8-43bde16e26d0)
-)
+![Todo App Screenshot]![Screenshot (61)](https://github.com/user-attachments/assets/8de106c0-c442-4197-a5c8-43bde16e26d0)
+
 
 ## Technologies Used
 
