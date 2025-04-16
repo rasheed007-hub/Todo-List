@@ -11,7 +11,7 @@ This is a simple and responsive To-Do list application built with React and Vite
 
 ## Live Demo
 
-Check out the live version here: [Click to view the demo]([reactjs-todo-appss.netlify.app](https://reactjs-todo-appss.netlify.app/))
+Check out the live version here: [Click to view the demo](https://reactjs-todo-appss.netlify.app/)
 
 ## Screenshot
 
